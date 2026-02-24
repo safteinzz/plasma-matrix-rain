@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "safteinzz"
+            }
+        ],
+        "Category": "Plasma Wallpaper",
+        "Description": "Matrix rain wallpaper - green characters falling like in The Matrix",
+        "Id": "com.github.safteinzz.matrixwallpaper",
+        "License": "GPL-3.0",
+        "Name": "Matrix Rain",
+        "Version": "1.0.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
