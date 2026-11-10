@@ -26,7 +26,7 @@ No compilation needed. Pure QML, no dependencies.
 ## Install
 
 ```bash
-git clone https://gitlab.com/safteinzz/plasma-matrix-rain.git
+git clone https://github.com/safteinzz/plasma-matrix-rain.git
 cd plasma-matrix-wallpaper
 mkdir -p ~/.local/share/plasma/wallpapers/
 cp -r com.github.safteinzz.matrixwallpaper ~/.local/share/plasma/wallpapers/
